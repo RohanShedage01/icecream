@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #FFC570;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    border-radius: 50px;
+}
+
+.nav-items {
+    color: #091413;
+    text-decoration: none;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin: 0 50px;
+}
+
+.nav-items:hover {
+    color: #5E0006;
+    transition: 0.2s;
+}
+
+.nav-icon {
+    width: 20px;
+    height: 20px;
+}
